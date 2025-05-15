@@ -1,15 +1,10 @@
-# Kitty
+# forinthrylite
 
-A Catppuccin inspired resource pack.
 
-Credits to Nicky for the Dark Vanilla pack that was used as a base.
-Credits to Moonset for the cat ears sprite
-Shoutout to Snail for being cute
+Wilderness PvM inspired resource pack for OSRS
 
-## Screenshots:
-<img src="https://i.imgur.com/GjrRCT9.png">
-<br>
-<img src="https://i.imgur.com/eWm5njK.png">
+Credits to Haffy for making Kitty, which was my base for this resource pack
+Credits to feen (sayoko on discord) for the artwork
 
 
 
